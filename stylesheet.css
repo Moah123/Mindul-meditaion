@@ -1,0 +1,220 @@
+body {
+    background-color: #ffffff;
+    margin:0;
+    background-repeat: no-repeat;
+    font-family: "Courier New";
+    color: #a8328b;
+    padding: 0;
+    background-image: url('meditation-02.jpg');
+    background-size: cover;
+    position: relative;
+}
+
+.body1{
+    background-image: url('siluet-chelovek-meditaciya.jpg');
+    background-size: cover ;
+    position: relative;
+    margin:0;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+
+.body2{
+    background-image: url('page 3.png');
+    background-size: cover;
+    position: relative;
+    margin:0;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+
+.body9{
+    background-image: url('aboutimg.html');
+    background-size: cover;
+    position: relative;
+    margin:0;
+    background-repeat: no-repeat;
+    padding: 0;
+}
+.footer {
+    color: #3ab9f0;
+    text-align: center;
+    font-family: "Courier New";
+    width: 100%;
+    padding-bottom: 0;
+    bottom: 0;
+    position: relative;
+}
+
+p {
+    font-size: 15px;
+    color: rgb(206, 10, 10);
+}
+/* index start here */
+.header {
+    font-size: 40px;
+    text-align: center;
+}
+/* index ends here */
+/*horizontal nav starts here*/
+.nav {
+    position: relative;
+    list-style-type: none;
+    overflow: hidden;
+    margin:  0;
+    padding: 0;
+    background-color: #000000;
+}
+
+    .nav a {
+        display: block;
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 50px;
+        padding: 30px 20px;
+    }
+
+    .nav a.NoPadding {
+        padding: 0px 0px!important;
+    }
+
+    .nav li {
+        float: left;
+    }
+
+    .nav a:hover {
+        background-color: #e72e00;
+    }
+
+.active_nav {
+    background-color: #b64e4e;
+}
+/*nav ends here*/
+
+span {
+    font-style: italic;
+}
+
+table {
+    font-size: 15px;
+    color: black;
+}
+.page_heading {
+    font-size: 70px;
+    text-align: center;
+}
+
+.body {
+    margin-left: 750px;
+    margin-right: 50px;
+    margin-top: 0px;
+    padding: 50px;
+    background-color: transparent;
+    text-align: left;
+    font-family: "Arial", monospace;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+.hometext { 
+    margin-left: 750px;
+    margin-right:50px;
+    margin-top: 0px;
+    padding: 50px;
+    background-color: transparent;
+    text-align: left;
+    font-family: "Arial", monospace;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+.content_heading {
+    font-size: 30px;
+}
+
+.img {
+    display: 2;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 500px;
+    object-fit: scale-down;
+}
+
+.content {
+    padding: 10px;
+}
+
+.footer {
+    color: #000000;
+    text-align: center;
+    font-family: "Courier New";
+    width: 100%;
+    bottom: 0;
+}
+
+.logo {
+    width: 160px;
+    height: 100px;
+}
+
+.HPT {
+    margin-left: 0px;
+    margin-right:50px;
+    margin-top: 10px;
+    padding: 0px;
+    background-color: transparent;
+    text-align: left;
+    font-family: "Arial", monospace;
+    font-size: 0px;
+    color: rgb(0, 0, 0); 
+}
+
+.poses1{
+   
+    align-self: center;
+    padding: 20px;
+    background-color: transparent;
+    text-align: center;
+    font-family: "Arial", monospace;
+    font-size: 45px;
+    color: rgb(255, 255, 255)
+}
+
+.poses2{
+
+  /* margin-left: 10px;
+    margin-right:1700px;
+    margin-top: 10px; */
+    align-self:left;
+    padding: 0px;
+    background-color: transparent;
+    text-align: center;
+    font-family: "Arial", monospace;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+    
+.poses2img{
+    width: 50%;
+    height: 50%;
+    padding-left: 450px;
+    background-repeat: no-repeat;
+}   
+
+
+
+
+.poses3{
+
+    /* margin-left: 10px;
+      margin-right:1700px;
+      margin-top: 10px; */
+      align-self:left;
+      padding: 0px;
+      background-color: transparent;
+      text-align: center;
+      font-family: "Arial", monospace;
+      font-size: 50px;
+      color: rgb(255, 255, 255);
+  }
